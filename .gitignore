@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+
+# Common IDEs
+*.swp
+.idea/
+.buildpath
+.project
+.settings
+.pydevproject
+atlassian-ide-plugin.xml
+.ropeproject
+
+# Project
+settings_local.py
+public/*
+logs/*
+media/cache
+cache
+
+# Virtualenv
+.env
+ENV
