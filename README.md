@@ -1,2 +1,3 @@
 # ci_clone
-Just another project of my own
+Trying to clone al the major functionalities of Concept Inbox, just for testing and learning purposes.
+
